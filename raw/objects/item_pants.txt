@@ -5,7 +5,6 @@ item_pants
 [ITEM_PANTS:ITEM_PANTS_PANTS]
 [PREPLURAL:pairs of]
 [NAME:trousers:trousers]
-[ARMORLEVEL:1]	added by Igfig - Eternal Fashion module
 [LBSTEP:MAX]
 [LAYER:OVER]
 [COVERAGE:100]
@@ -62,7 +61,6 @@ item_pants
 
 [ITEM_PANTS:ITEM_PANTS_THONG]
 [NAME:thong:thongs]
-[ARMORLEVEL:1]	added by Igfig - Eternal Fashion module
 [LAYER:UNDER]
 [COVERAGE:25]
 [LAYER_SIZE:10]
@@ -74,7 +72,6 @@ item_pants
 
 [ITEM_PANTS:ITEM_PANTS_SKIRT]
 [NAME:skirt:skirts]
-[ARMORLEVEL:1]	added by Igfig - Eternal Fashion module
 [LBSTEP:1]
 [LAYER:OVER]
 [COVERAGE:100]
@@ -87,7 +84,6 @@ item_pants
 
 [ITEM_PANTS:ITEM_PANTS_SKIRT_SHORT]
 [NAME:short skirt:short skirts]
-[ARMORLEVEL:1]	added by Igfig - Eternal Fashion module
 [LAYER:OVER]
 [COVERAGE:100]
 [LAYER_SIZE:10]
@@ -99,7 +95,6 @@ item_pants
 
 [ITEM_PANTS:ITEM_PANTS_SKIRT_LONG]
 [NAME:long skirt:long skirts]
-[ARMORLEVEL:1]	added by Igfig - Eternal Fashion module
 [LBSTEP:MAX]
 [LAYER:OVER]
 [COVERAGE:100]
@@ -113,7 +108,6 @@ item_pants
 [ITEM_PANTS:ITEM_PANTS_BRAIES]
 [PREPLURAL:pairs of]
 [NAME:braies:braies]
-[ARMORLEVEL:1]	added by Igfig - Eternal Fashion module
 [LBSTEP:1]
 [LAYER:UNDER]
 [COVERAGE:100]

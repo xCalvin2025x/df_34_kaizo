@@ -19,7 +19,6 @@ item_gloves
 
 [ITEM_GLOVES:ITEM_GLOVES_GLOVES]
 [NAME:glove:gloves]
-[ARMORLEVEL:1]	added by Igfig - Eternal Fashion module
 [MATERIAL_SIZE:1]
 [LAYER:UNDER]
 [COVERAGE:100]
@@ -31,7 +30,6 @@ item_gloves
 
 [ITEM_GLOVES:ITEM_GLOVES_MITTENS]
 [NAME:mitten:mittens]
-[ARMORLEVEL:1]	added by Igfig - Eternal Fashion module
 [LAYER:COVER]
 [COVERAGE:150]
 [LAYER_SIZE:15]

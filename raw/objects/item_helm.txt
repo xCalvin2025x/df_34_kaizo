@@ -21,8 +21,7 @@ item_helm
 
 [ITEM_HELM:ITEM_HELM_CAP]
 [NAME:cap:caps]
-METAL_ARMOR_LEVELS	removed by Igfig - Eternal Fashion module
-[ARMORLEVEL:1]		added by Igfig - Eternal Fashion module
+[METAL_ARMOR_LEVELS]
 [LAYER:OVER]
 [COVERAGE:50]
 [LAYER_SIZE:10]
@@ -37,7 +36,6 @@ METAL_ARMOR_LEVELS	removed by Igfig - Eternal Fashion module
 
 [ITEM_HELM:ITEM_HELM_HOOD]
 [NAME:hood:hoods]
-[ARMORLEVEL:1]	added by Igfig - Eternal Fashion module
 [LAYER:COVER]
 [COVERAGE:100]
 [LAYER_SIZE:10]
@@ -49,7 +47,6 @@ METAL_ARMOR_LEVELS	removed by Igfig - Eternal Fashion module
 
 [ITEM_HELM:ITEM_HELM_TURBAN]
 [NAME:turban:turbans]
-[ARMORLEVEL:1]	added by Igfig - Eternal Fashion module
 [LAYER:OVER]
 [COVERAGE:50]
 [LAYER_SIZE:20]
@@ -61,7 +58,6 @@ METAL_ARMOR_LEVELS	removed by Igfig - Eternal Fashion module
 
 [ITEM_HELM:ITEM_HELM_MASK]
 [NAME:mask:masks]
-[ARMORLEVEL:1]	added by Igfig - Eternal Fashion module
 [LAYER:UNDER]
 [COVERAGE:50]
 [LAYER_SIZE:20]
@@ -78,7 +74,6 @@ METAL_ARMOR_LEVELS	removed by Igfig - Eternal Fashion module
 
 [ITEM_HELM:ITEM_HELM_VEIL_HEAD]
 [NAME:head veil:head veils]
-[ARMORLEVEL:1]	added by Igfig - Eternal Fashion module
 [LAYER:OVER]
 [COVERAGE:50]
 [LAYER_SIZE:10]
@@ -90,7 +85,6 @@ METAL_ARMOR_LEVELS	removed by Igfig - Eternal Fashion module
 
 [ITEM_HELM:ITEM_HELM_VEIL_FACE]
 [NAME:face veil:face veils]
-[ARMORLEVEL:1]	added by Igfig - Eternal Fashion module
 [LAYER:UNDER]
 [COVERAGE:50]
 [LAYER_SIZE:10]
@@ -102,7 +96,6 @@ METAL_ARMOR_LEVELS	removed by Igfig - Eternal Fashion module
 
 [ITEM_HELM:ITEM_HELM_SCARF_HEAD]
 [NAME:headscarf:headscarves]
-[ARMORLEVEL:1]	added by Igfig - Eternal Fashion module
 [LAYER:OVER]
 [COVERAGE:50]
 [LAYER_SIZE:10]
