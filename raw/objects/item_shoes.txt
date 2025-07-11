@@ -4,6 +4,7 @@ item_shoes
 
 [ITEM_SHOES:ITEM_SHOES_SHOES]
 [NAME:shoe:shoes]
+[ARMORLEVEL:1]	added by Igfig - Eternal Fashion module
 [LAYER:OVER]
 [COVERAGE:100]
 [LAYER_SIZE:20]
@@ -42,6 +43,7 @@ item_shoes
 
 [ITEM_SHOES:ITEM_SHOES_SANDAL]
 [NAME:sandal:sandals]
+[ARMORLEVEL:1]	added by Igfig - Eternal Fashion module
 [LAYER:OVER]
 [COVERAGE:100]
 [LAYER_SIZE:25]
@@ -53,6 +55,7 @@ item_shoes
 
 [ITEM_SHOES:ITEM_SHOES_CHAUSSE]
 [NAME:chausse:chausses]
+[ARMORLEVEL:1]	added by Igfig - Eternal Fashion module
 [UPSTEP:MAX]
 [LAYER:UNDER]
 [COVERAGE:100]

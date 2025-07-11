@@ -47,6 +47,7 @@ item_armor
 
 [ITEM_ARMOR:ITEM_ARMOR_COAT]
 [NAME:coat:coats]
+[ARMORLEVEL:1]	added by Igfig - Eternal Fashion module
 [UBSTEP:MAX]
 [LBSTEP:1]
 [LAYER:OVER]
@@ -60,6 +61,7 @@ item_armor
 
 [ITEM_ARMOR:ITEM_ARMOR_SHIRT]
 [NAME:shirt:shirts]
+[ARMORLEVEL:1]	added by Igfig - Eternal Fashion module
 [UBSTEP:MAX]
 [LBSTEP:0]
 [LAYER:UNDER]
@@ -73,6 +75,7 @@ item_armor
 
 [ITEM_ARMOR:ITEM_ARMOR_CLOAK]
 [NAME:cloak:cloaks]
+[ARMORLEVEL:1]	added by Igfig - Eternal Fashion module
 [UBSTEP:MAX]
 [LBSTEP:1]
 [LAYER:COVER]
@@ -86,6 +89,7 @@ item_armor
 
 [ITEM_ARMOR:ITEM_ARMOR_TUNIC]
 [NAME:tunic:tunics]
+[ARMORLEVEL:1]	added by Igfig - Eternal Fashion module
 [UBSTEP:0]
 [LBSTEP:1]
 [LAYER:UNDER]
@@ -99,6 +103,7 @@ item_armor
 
 [ITEM_ARMOR:ITEM_ARMOR_TOGA]
 [NAME:toga:togas]
+[ARMORLEVEL:1]	added by Igfig - Eternal Fashion module
 [UBSTEP:1]
 [LBSTEP:1]
 [LAYER:OVER]
@@ -112,6 +117,7 @@ item_armor
 
 [ITEM_ARMOR:ITEM_ARMOR_CAPE]
 [NAME:cape:capes]
+[ARMORLEVEL:1]	added by Igfig - Eternal Fashion module
 [UBSTEP:0]
 [LBSTEP:0]
 [LAYER:COVER]
@@ -125,6 +131,7 @@ item_armor
 
 [ITEM_ARMOR:ITEM_ARMOR_VEST]
 [NAME:vest:vests]
+[ARMORLEVEL:1]
 [UBSTEP:0]
 [LBSTEP:0]
 [LAYER:OVER]
@@ -138,6 +145,7 @@ item_armor
 
 [ITEM_ARMOR:ITEM_ARMOR_DRESS]
 [NAME:dress:dresses]
+[ARMORLEVEL:1]	added by Igfig - Eternal Fashion module
 [UBSTEP:MAX]
 [LBSTEP:MAX]
 [LAYER:UNDER]
@@ -151,6 +159,7 @@ item_armor
 
 [ITEM_ARMOR:ITEM_ARMOR_ROBE]
 [NAME:robe:robes]
+[ARMORLEVEL:1]	added by Igfig - Eternal Fashion module
 [UBSTEP:MAX]
 [LBSTEP:MAX]
 [LAYER:OVER]
